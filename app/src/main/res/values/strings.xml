@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">160421105_UTS_Project_Hobby</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="previous_btn">&lt;</string>
+    <string name="next_btn">&gt;</string>
+</resources>
